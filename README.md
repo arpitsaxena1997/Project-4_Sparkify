@@ -30,7 +30,7 @@ In simple words, this project is a calssification project, in which we classify 
 - Modelling
 
 ## Results/Blog Post <a name="results"></a>
-The main findings of the code can be found in the post available [here](https://medium.com/@arpit.saxena.guna/sparkify-user-churn-analysis-e91b6babab52)
+The main findings of the code can be found in the post available [here](https://medium.com/@arpit.saxena.guna/sparkify-user-churn-analysis2-1aebac0a300a)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Acknowledgment should go to Udacity for provinding the dataset
